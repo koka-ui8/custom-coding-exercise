@@ -1,1 +1,2 @@
-# custom-coding-exercise
+# Custom-Coding-Exercise
+Custom Coding Exercise
